@@ -16,7 +16,7 @@ body {
                 word-wrap: break-word;
                 color: black;
                 background-color: black;
-                background-image: url('https://i.ibb.co/djdK62Z/2048.png');
+                background-image: url('assets/2048.png');
                 background-repeat: repeat;
   margin-top: 150px;
             }
